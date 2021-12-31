@@ -70,6 +70,42 @@ It has been decided to use the Fibonacci numbers to decide the story points for 
 | 20           | Large      |
 | 40           | Very Large |
 
+## Backlog 
+![image](https://user-images.githubusercontent.com/95527841/147799939-849ad9c9-4b66-4a0f-9458-68b046d4f85d.png)
+
+## Workflow 
+![image](https://user-images.githubusercontent.com/95527841/147799957-4c97f7a3-92ae-43ff-8c19-628407da26d9.png)
+
+## Daily Scrum Meeting Example 1:
+|     Team member    |     Question                             |     Monday                                                                |     Tuesday                                                            |
+|--------------------|------------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|
+|     Ahmed          |     What   did you do yesterday?         |     Finished   designing the front-end part of the complaint page         |     I   finished the front-end of the login screen                     |
+|                    |     What   are doing today?              |     Going   to start working on the front-end look of the login screen    |     Going   to start working on the display a museum page front-end    |
+|                    |     Is   there anything blocking you?    |     No                                                                    |     No                                                                 |
+|     Amira          |     What   did you do yesterday?         |     Finished   designing the back-end part of the complaint page          |     I   finished the back-end of the login screen                      |
+|                    |     What   are doing today?              |     Going   to start working on the back-end look of the login screen     |     Going   to start working on the display a museum page back-end     |
+|                    |     Is   there anything blocking you?    |     No                                                                    |     No.                                                                |
+
+## Daily Scrum Meeting Example 2: 
+|     Team member    |     Question                             |     Monday                                                                    |     Tuesday                                                                    |
+|--------------------|------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+|     George         |     What   did you do yesterday?         |     Tested   the front-end part of the complaint page                         |     I   finished testing the front-end of the login screen                     |
+|                    |     What   are doing today?              |     Going   to start working on testing front-end look of the login screen    |     Going   to start working on testing the display a museum page front-end    |
+|                    |     Is   there anything blocking you?    |     No                                                                        |     No                                                                         |
+|     Habiba         |     What   did you do yesterday?         |     Designed   the art style for the login page                               |     Designed   the art style template for the web pages of the web app         |
+|                    |     What   are doing today?              |     Design   the art style template for the web pages of the web app          |     Design   the artwork for the homepage of the web app                       |
+|                    |     Is   there anything blocking you?    |     No                                                                        |     No.                                                                        |
+
+
+## Sprint Document
+### First Sprint: 
+#### Goal: By the end of this sprint the login screen should be implemented and the complaints page as well as the display a museum page
+#### Progress: Completed successfully
+#### Next Sprint: implement museum recommendations feature and get directions for a museum feature and option to pay with museum website or our own integrated booking service.
+### Second Sprint: 
+#### Goal: implement museum recommendations feature and get directions for a museum feature and option to pay with museum website or our own integrated booking service.
+#### Progress: Completed successfully
+#### Next Sprint: implement print receipt as proof of booking feature, check availability of booking on a certain date feature, add credit card information feature, redirect to the museum website feature. 
 
 
 
